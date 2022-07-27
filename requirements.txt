@@ -1,3 +1,15 @@
 dvc
 dvc[gdrive]
 sklearn
+pandas
+numpy == 1.16
+
+matplotlib== 3.4
+
+scipy == 1.5.3
+
+xlwings==0.26.3
+
+xlsxwriter== 3.0.2
+
+PyQt5==5.12
