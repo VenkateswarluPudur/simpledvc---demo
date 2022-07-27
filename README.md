@@ -6,3 +6,10 @@
 # git init
 # dvc init
 # dvc add data given/wineequality.csv
+# git add .
+# git commit -m "first commit"
+# online update  for readme
+# git add . &&git commit -m "update Readme.me"
+# git remote add origin https://github.com/VenkateswarluPudur/simpledvc---demo.git
+# git branch -M main
+# git push origin main
